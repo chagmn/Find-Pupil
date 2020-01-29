@@ -2,4 +2,4 @@
 
 Using any video files which take eyes and resize or set a ROI to take eyes for correct accuracy.
 
-눈 영상들을 사용 가능하며 정확한 검출을 위해선 ROI를 지정해야 한다.
+눈 영상들을 사용 가능하며 정확한 검출을 위해선 ROI를 영상에서의 눈 위치에 맞게 지정해야 한다.
